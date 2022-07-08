@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-08T17:00:25 IST" name="Default suite" finished-at="2022-07-08T17:00:29 IST" duration-ms="4430">
+    <groups>
+    </groups>
+    <test started-at="2022-07-08T17:00:25 IST" name="Default test" finished-at="2022-07-08T17:00:29 IST" duration-ms="4430">
+      <class name="com.gorest.tests.GetTests">
+        <test-method is-config="true" signature="TestConfig()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:25 IST" name="TestConfig" finished-at="2022-07-08T17:00:25 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestConfig -->
+        <test-method signature="validateStatusCode()[pri:-1, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:25 IST" name="validateStatusCode" finished-at="2022-07-08T17:00:28 IST" duration-ms="2740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatusCode -->
+        <test-method signature="validateEmail()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:28 IST" name="validateEmail" finished-at="2022-07-08T17:00:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateEmail -->
+        <test-method signature="validateGender()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:28 IST" name="validateGender" finished-at="2022-07-08T17:00:28 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGender -->
+        <test-method signature="validateId()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:28 IST" name="validateId" finished-at="2022-07-08T17:00:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateId -->
+        <test-method signature="validateInvalideToken()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:28 IST" name="validateInvalideToken" finished-at="2022-07-08T17:00:29 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInvalideToken -->
+        <test-method signature="validateInvalideURL()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:29 IST" name="validateInvalideURL" finished-at="2022-07-08T17:00:29 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInvalideURL -->
+        <test-method signature="validateName()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:29 IST" name="validateName" finished-at="2022-07-08T17:00:29 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateName -->
+        <test-method signature="validateStatus()[pri:0, instance:com.gorest.tests.GetTests@1de76cc7]" started-at="2022-07-08T17:00:29 IST" name="validateStatus" finished-at="2022-07-08T17:00:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateStatus -->
+      </class> <!-- com.gorest.tests.GetTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
